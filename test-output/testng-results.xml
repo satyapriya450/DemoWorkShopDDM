@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-29T16:16:22 IST" name="Suite" finished-at="2022-09-29T16:16:41 IST" duration-ms="19271">
+  <suite started-at="2022-09-29T16:21:35 IST" name="Suite" finished-at="2022-09-29T16:21:54 IST" duration-ms="18697">
     <groups>
     </groups>
-    <test started-at="2022-09-29T16:16:22 IST" name="Test" finished-at="2022-09-29T16:16:36 IST" duration-ms="14294">
+    <test started-at="2022-09-29T16:21:35 IST" name="Test" finished-at="2022-09-29T16:21:49 IST" duration-ms="13559">
       <class name="testcase.LoginPage">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.LoginPage@25e2ab5a]" started-at="2022-09-29T16:16:22 IST" name="setup" finished-at="2022-09-29T16:16:30 IST" duration-ms="8175" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.LoginPage@25e2ab5a]" started-at="2022-09-29T16:21:36 IST" name="setup" finished-at="2022-09-29T16:21:43 IST" duration-ms="7416" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="EnterValidCredentials(java.util.Hashtable)[pri:0, instance:testcase.LoginPage@25e2ab5a]" started-at="2022-09-29T16:16:30 IST" name="EnterValidCredentials" data-provider="dp" finished-at="2022-09-29T16:16:36 IST" duration-ms="5968" status="PASS">
+        <test-method signature="EnterValidCredentials(java.util.Hashtable)[pri:0, instance:testcase.LoginPage@25e2ab5a]" started-at="2022-09-29T16:21:43 IST" name="EnterValidCredentials" data-provider="dp" finished-at="2022-09-29T16:21:49 IST" duration-ms="5985" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,25 +24,25 @@
         </test-method> <!-- EnterValidCredentials -->
       </class> <!-- testcase.LoginPage -->
     </test> <!-- Test -->
-    <test started-at="2022-09-29T16:16:36 IST" name="Test2" finished-at="2022-09-29T16:16:41 IST" duration-ms="4911">
+    <test started-at="2022-09-29T16:21:49 IST" name="Test2" finished-at="2022-09-29T16:21:54 IST" duration-ms="5017">
       <class name="testcase.ClearShoppingCart">
-        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:16:22 IST" name="BeforeSuite" finished-at="2022-09-29T16:16:22 IST" duration-ms="223" status="PASS">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:21:35 IST" name="BeforeSuite" finished-at="2022-09-29T16:21:35 IST" duration-ms="224" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuite -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:16:36 IST" name="setup" finished-at="2022-09-29T16:16:37 IST" duration-ms="662" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:21:49 IST" name="setup" finished-at="2022-09-29T16:21:50 IST" duration-ms="679" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="ClearAddToCartAndGoToBooks()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:16:37 IST" name="ClearAddToCartAndGoToBooks" finished-at="2022-09-29T16:16:41 IST" duration-ms="4243" status="PASS">
+        <test-method signature="ClearAddToCartAndGoToBooks()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:21:50 IST" name="ClearAddToCartAndGoToBooks" finished-at="2022-09-29T16:21:54 IST" duration-ms="4333" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClearAddToCartAndGoToBooks -->
-        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:16:41 IST" name="AfterSuite" finished-at="2022-09-29T16:16:41 IST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:21:54 IST" name="AfterSuite" finished-at="2022-09-29T16:21:54 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuite -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:16:41 IST" name="tearDown" finished-at="2022-09-29T16:16:42 IST" duration-ms="881" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.ClearShoppingCart@63fdab07]" started-at="2022-09-29T16:21:54 IST" name="tearDown" finished-at="2022-09-29T16:21:55 IST" duration-ms="912" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
