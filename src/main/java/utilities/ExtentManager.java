@@ -15,7 +15,7 @@ public class ExtentManager {
  public static ExtentTest test;
  
  public static void setExtent() {
-  htmlReporter= new ExtentHtmlReporter(System.getProperty("user.dir")+"/test-output/ExtentReport/"+"extent.html");
+  htmlReporter= new ExtentHtmlReporter(System.getProperty("user.dir")+"//target/surefire-reports/html/"+"extent.html");
   htmlReporter.loadXMLConfig(System.getProperty("user.dir")+"\\src\\main\\java\\utilities\\extent-config.xml");
  
   //htmlReporter.config().setDocumentTitle("Automation Test Report");
