@@ -1,3 +1,6 @@
-19:05:33,862  INFO devpinoyLogger:80 - Config file loaded !!!
-19:05:39,124  INFO devpinoyLogger:117 - launching chrome broswer
-19:05:48,970  INFO devpinoyLogger:136 - Hit the URL !!!
+16:16:22,388  INFO devpinoyLogger:80 - Config file loaded !!!
+16:16:25,552  INFO devpinoyLogger:117 - launching chrome broswer
+16:16:30,550  INFO devpinoyLogger:136 - Hit the URL !!!
+16:16:37,271  INFO devpinoyLogger:136 - Hit the URL !!!
+16:16:38,508  INFO devpinoyLogger:25 - Go To Books Page.............
+16:16:38,510  INFO devpinoyLogger:41 - Clear Shipping Cart Items............
