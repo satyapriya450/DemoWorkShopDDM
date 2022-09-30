@@ -5,7 +5,7 @@
 
 <listeners>
 
-<listener class-name="testdata.ListenerClass"></listener>
+<listener class-name="listeners.ListenerClass"></listener>
 </listeners>
   
   <test name="Test">
